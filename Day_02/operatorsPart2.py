@@ -8,6 +8,6 @@
 # a=False
 # print( not a)
 a,b=4,6
-print(a>5 and b<2)
+print(a>5 and b<3)
 
 
