@@ -9,5 +9,5 @@
 # print( not a)
 a,b=4,6
 print(a>5 and b<2)
-print(a>b and b<2) 
+
 
